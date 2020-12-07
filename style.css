@@ -1,0 +1,41 @@
+#img1{
+ border-radius: 100%;
+    height: 300px;
+   
+}
+body{
+    text-align: center;
+}
+#me{
+    background-color: aqua;
+    width: 100%;
+        height: 100%;
+    z-index: 9;
+}
+.line{
+    height:5px;
+        width:50px;
+    background-color: black;
+margin: auto;
+}
+.menu{
+    font-family: serif;
+    cursor: pointer;
+    z-index: 10;
+   background: white;
+    margin
+    
+}
+.link{
+float: right; 
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px; 
+    font-family: fantasy;
+    font-size: 20px;
+
+
+}
+.link:hover{
+    font-size:30px;
+}
